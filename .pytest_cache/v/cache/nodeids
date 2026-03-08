@@ -1,0 +1,5 @@
+[
+  "tests/test_table_print.py::TestPrint::test_basic",
+  "tests/test_table_print.py::TestPrint::test_empty",
+  "tests/test_table_print.py::TestPrint::test_type_error"
+]
